@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## RightRoom
 
 You can use the [editor on GitHub](https://github.com/Rec2Mono/Rec2Mono/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# sus
 Sussy
 ## Header 2
 ### Header 3
